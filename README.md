@@ -27,8 +27,8 @@ opencv1_color_sorter/
 ## 🚀 How to Run
 
 ### 1. Clone the Repo
-git clone https://github.com/your-username/opencv1_color_sorter.git
-cd opencv1_color_sorter
+   git clone https://github.com/your-username/opencv1_color_sorter.git
+   cd opencv1_color_sorter
 
 ### 2. Install Requirements
     pip install -r requirements.txt
@@ -51,6 +51,6 @@ output/
 ---
 
 🙋 Author
-Achyuta K
-Computer Vision Enthusiast | AI Explorer
-📍 India
+-**Achyuta K**
+-**Computer Vision** Enthusiast | **AI Explorer**
+-📍 India
