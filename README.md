@@ -29,6 +29,8 @@ This project detects specific colors (**red**, **green**, **yellow**, **blue**) 
 ### 4. Run the Script
     python color_mask_batch.py
 
+---
+
 
 ## 🙋 Author
 - **Achyuta K**
