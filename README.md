@@ -13,16 +13,6 @@ This project detects specific colors (**red**, **green**, **yellow**, **blue**) 
 
 ---
 
-## 📂 Folder Structure
-
-opencv1_color_sorter/
-├── input_images/ # Add your original images here
-├── output/ # Generated automatically: red/, green/, blue/, yellow/
-├── color_mask_batch.py # Main script
-├── requirements.txt # Python dependencies
-└── README.md # You're reading it!
-
----
 
 ## 🚀 How to Run
 
@@ -39,18 +29,8 @@ opencv1_color_sorter/
 ### 4. Run the Script
     python color_mask_batch.py
 
-### 5. View Output
-Check the output/ folder — it will contain:
 
-output/
-├── red/
-├── green/
-├── blue/
-└── yellow/
-
----
-
-🙋 Author
--**Achyuta K**
--**Computer Vision** Enthusiast | **AI Explorer**
--📍 India
+## 🙋 Author
+- **Achyuta K**
+- **Computer Vision** Enthusiast | **AI Explorer**
+- 📍 India
